@@ -1,4 +1,4 @@
 # exercise-repo
-repo made for softuni exercise 
-adding some additional text
-messing around 
+repo made for softuni exercise
+Changes was made and conflict was resolved
+
